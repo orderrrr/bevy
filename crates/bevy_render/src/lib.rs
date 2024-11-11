@@ -1,3 +1,4 @@
+#![feature(inline_const)]
 // FIXME(3492): remove once docs are ready
 #![allow(missing_docs)]
 #![allow(unsafe_code)]
